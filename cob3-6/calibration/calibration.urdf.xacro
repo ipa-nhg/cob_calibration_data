@@ -31,12 +31,12 @@
 	<!-- upper robot calibration -->
 	<!-- *********************** -->
 	<!-- tray mount positions | relative to base_link -->
-	<property name="tray_x" value="0.2406"/>
-	<property name="tray_y" value="0.1"/>
-	<property name="tray_z" value="0.7320"/>
+	<property name="tray_x" value="0"/>
+	<property name="tray_y" value="0"/>
+	<property name="tray_z" value="0"/>
 	<property name="tray_roll" value="0"/>
 	<property name="tray_pitch" value="0"/>
-	<property name="tray_yaw" value="1.570796327"/>
+	<property name="tray_yaw" value="0"/>
 
 	<!-- torso mount positions | relative to base_link -->
 	<property name="torso_x" value="0.1535525935"/>
